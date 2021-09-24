@@ -1,0 +1,124 @@
+.logo{
+    position: relative;
+    height: 130px;
+    width: 100px;
+    border-radius: 15px;
+    left: 700px;
+    bottom: -50px;
+}
+
+.titulo{
+    position: relative;
+    left: 710px;
+    bottom: -40px;
+}
+
+#rectandulo {
+    position: relative;
+    bottom: -40px;
+    left: 560px;
+    background: rgb(228, 228, 228);
+    width: 105px;
+    height: 65px;
+    border-radius: 15px;
+}
+
+.post{ 
+position: relative;
+text-align: center;
+left: -150px;
+bottom: 35px;
+}
+
+#rectandulo2 {
+    position: relative;
+    bottom: 108px;
+    left: 700px;
+    background: rgb(228, 228, 228);
+    width: 105px;
+    height: 65px;
+    border-radius: 15px;
+}
+
+.post2 { 
+position: relative;
+text-align: center;
+left: -7px;
+bottom: 180px;
+}
+
+#rectandulo3 {
+    position: relative;
+    bottom: 255px;
+    left: 840px;
+    background: rgb(228, 228, 228);
+    width: 105px;
+    height: 65px;
+    border-radius: 15px;
+}
+
+.post3 { 
+position: relative;
+text-align: center;
+left: 132px;
+bottom: 328px;
+}
+
+.fondo1{
+    position: relative;
+    height: 250px;
+    width: 290px;
+    left: 250px;
+    bottom: 250px;
+    border-radius: 25px;
+}
+
+.fondo2{
+    position: relative;
+    height: 250px;
+    width: 600px;
+    left: 300px;
+    bottom: 250px;
+    border-radius: 25px;
+}
+
+
+.fondo3{
+    position: relative;
+    height: 250px;
+    width: 550px;
+    left: -648px;
+    bottom: -40px;
+    border-radius: 25px;
+}
+
+
+.fondo4{
+    position: relative;
+    height: 550px;
+    width: 340px;
+    left: 850px;
+    bottom: 215px;
+    border-radius: 25px;
+}
+
+
+.fondo5{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    left: -100px;
+    bottom: 220px;
+    border-radius: 25px;
+}
+
+
+.fondo6{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    left: -50px;
+    bottom: 220px;
+    border-radius: 25px;
+}
+
